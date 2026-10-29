@@ -133,10 +133,13 @@ ol{
 
     }
     .botao-enviar{
-        display:-block
-        background:#e639446;
+        display:block;
+        background:#e63946;
         color: #fff;
-        fort: size 18px;
-        margin: 20px
+font-size: 8px;
+        margin: 20px 0 0 0;
+        padding: 14px 30px;
+
 
 }
+.formulario
